@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pallavii23
+- 👋 Hi, I’m @Isha_sri
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning angular and node js.
 
